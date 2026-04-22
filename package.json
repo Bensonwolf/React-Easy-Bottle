@@ -2,7 +2,7 @@
   "name": "b",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://t109ab0756.github.io/Easy-Bottle-React",
+  "homepage": "https://Bensonwolf.github.io/React-Easy-Bottle",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -41,7 +41,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0",
+    "gh-pages": "^6.3.0",
     "react-router-dom": "^6.21.0"
   }
 }

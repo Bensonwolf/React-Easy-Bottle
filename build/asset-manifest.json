@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/t109ab0756/Easy-Bottle-React/static/css/main.c73de0fb.css",
-    "main.js": "/t109ab0756/Easy-Bottle-React/static/js/main.fa86fd08.js",
-    "static/media/close-up-hands-clapping-celebration-success (1).jpg": "/t109ab0756/Easy-Bottle-React/static/media/close-up-hands-clapping-celebration-success (1).1472ac3db0dc92446751.jpg",
-    "static/media/garrett-butler-UrJ-fn2iRUM-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/garrett-butler-UrJ-fn2iRUM-unsplash.dd8ad8eac35d52d1fd40.jpg",
-    "static/media/victor-freitas-WvDYdXDzkhs-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/victor-freitas-WvDYdXDzkhs-unsplash.96affeab7a2fc084484e.jpg",
-    "static/media/bruno-kelzer-LvySG1hvuzI-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/bruno-kelzer-LvySG1hvuzI-unsplash.4a217f728ad86edf7bd3.jpg",
-    "static/media/lucas-favre-JnoNcfFwrNA-unsplash.jpg": "/t109ab0756/Easy-Bottle-React/static/media/lucas-favre-JnoNcfFwrNA-unsplash.f13f26716543a9347b38.jpg",
-    "static/media/0411-06.png": "/t109ab0756/Easy-Bottle-React/static/media/0411-06.ca26aae81689544cee6e.png",
-    "static/media/20230619-2.png": "/t109ab0756/Easy-Bottle-React/static/media/20230619-2.73e8d71e040790f61f30.png",
-    "static/media/new back.png": "/t109ab0756/Easy-Bottle-React/static/media/new back.65cea4f64607a85187f2.png",
-    "static/media/0411-04_edited.jpg": "/t109ab0756/Easy-Bottle-React/static/media/0411-04_edited.6bf83c13573a2ec34b45.jpg",
-    "static/media/user (1).png": "/t109ab0756/Easy-Bottle-React/static/media/user (1).961568814dceb733c85a.png",
-    "static/media/reusable-bottle (1).png": "/t109ab0756/Easy-Bottle-React/static/media/reusable-bottle (1).95f00f2d71fcc5b23b71.png",
-    "static/media/back-to-top.png": "/t109ab0756/Easy-Bottle-React/static/media/back-to-top.7900966e71252a628fa0.png",
-    "index.html": "/t109ab0756/Easy-Bottle-React/index.html",
-    "main.c73de0fb.css.map": "/t109ab0756/Easy-Bottle-React/static/css/main.c73de0fb.css.map",
-    "main.fa86fd08.js.map": "/t109ab0756/Easy-Bottle-React/static/js/main.fa86fd08.js.map"
+    "main.css": "/React-Easy-Bottle/static/css/main.68d2493a.css",
+    "main.js": "/React-Easy-Bottle/static/js/main.fe3f2d35.js",
+    "static/media/close-up-hands-clapping-celebration-success (1).jpg": "/React-Easy-Bottle/static/media/close-up-hands-clapping-celebration-success (1).1472ac3db0dc92446751.jpg",
+    "static/media/garrett-butler-UrJ-fn2iRUM-unsplash.jpg": "/React-Easy-Bottle/static/media/garrett-butler-UrJ-fn2iRUM-unsplash.dd8ad8eac35d52d1fd40.jpg",
+    "static/media/victor-freitas-WvDYdXDzkhs-unsplash.jpg": "/React-Easy-Bottle/static/media/victor-freitas-WvDYdXDzkhs-unsplash.96affeab7a2fc084484e.jpg",
+    "static/media/bruno-kelzer-LvySG1hvuzI-unsplash.jpg": "/React-Easy-Bottle/static/media/bruno-kelzer-LvySG1hvuzI-unsplash.4a217f728ad86edf7bd3.jpg",
+    "static/media/lucas-favre-JnoNcfFwrNA-unsplash.jpg": "/React-Easy-Bottle/static/media/lucas-favre-JnoNcfFwrNA-unsplash.f13f26716543a9347b38.jpg",
+    "static/media/0411-06.png": "/React-Easy-Bottle/static/media/0411-06.ca26aae81689544cee6e.png",
+    "static/media/20230619-2.png": "/React-Easy-Bottle/static/media/20230619-2.73e8d71e040790f61f30.png",
+    "static/media/backpicture.png": "/React-Easy-Bottle/static/media/backpicture.08f77f6445c65cebe74e.png",
+    "static/media/0411-04_edited.jpg": "/React-Easy-Bottle/static/media/0411-04_edited.6bf83c13573a2ec34b45.jpg",
+    "static/media/user (1).png": "/React-Easy-Bottle/static/media/user (1).961568814dceb733c85a.png",
+    "static/media/reusable-bottle (1).png": "/React-Easy-Bottle/static/media/reusable-bottle (1).95f00f2d71fcc5b23b71.png",
+    "static/media/back-to-top.png": "/React-Easy-Bottle/static/media/back-to-top.7900966e71252a628fa0.png",
+    "index.html": "/React-Easy-Bottle/index.html",
+    "main.68d2493a.css.map": "/React-Easy-Bottle/static/css/main.68d2493a.css.map",
+    "main.fe3f2d35.js.map": "/React-Easy-Bottle/static/js/main.fe3f2d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.c73de0fb.css",
-    "static/js/main.fa86fd08.js"
+    "static/css/main.68d2493a.css",
+    "static/js/main.fe3f2d35.js"
   ]
 }
