@@ -1,8 +1,11 @@
 main section.team {
   padding: 5rem 0rem;
-  background-image: url(../pictures/new\ back.png);
+  background-image: url(../pictures/backpicture.png);
   background-color: #e7dedd;
   display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 main section.team div.teamstory {
   display: flex;
